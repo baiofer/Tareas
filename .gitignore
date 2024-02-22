@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cachés de Python
+*.pyc
+
+# Entorno virtual
+venv/
+env/
+ENV/
+
+# Carpeta de configuración de Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+
+# Media
+media/
+
+# Dependencias
+node_modules/
+bower_components/
